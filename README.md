@@ -25,7 +25,7 @@ The database consists of the following tables:
  <h1> ❓ Important SQL Questions</h1>
 <h3>Here are some commonly asked SQL interview questions:</h3>
 
-<h3><a href="">🏆 Basic SQL Questions</a></h3>
+<h3><a href="https://github.com/ishanwalia7579/SQL-DBMS-Zero-to-Hero/blob/main/%F0%9F%8F%86%20Basic%20SQL%20Questions%20%26%20Answers.md">🏆 Basic SQL Questions</a></h3>
 
 <li>What is SQL?</li>
 <li>What are the different types of SQL commands? (DDL, DML, DCL, TCL)</li>
