@@ -61,7 +61,7 @@ You can integrate this database with a backend using Node.js, Python (Flask/Djan
 
 <h5>Example:</h5> Fetch users in Python (MySQL)
 
-```c
+```python
 import mysql.connector
 
 conn = mysql.connector.connect(host="localhost", user="root", password="password", database="database_name")
