@@ -1,7 +1,7 @@
 # 📌 SQL Database Project
 
 ## 📖 Description
-This project contains SQL scripts for creating and managing a database for [Project Name]. It includes schema definitions, sample queries, and setup instructions.
+This project contains SQL scripts for creating and managing a database for [Ishan Walia]. It includes schema definitions, sample queries, and setup instructions.
 
 ## 🏗 Database Schema
 The database consists of the following tables:
