@@ -70,3 +70,24 @@ cursor.execute("SELECT * FROM users")
 print(cursor.fetchall())
 
 ```
+<h3>🤝 Contributing</h3>
+<li>Fork the repository.</li>
+<li>Create a new branch: git checkout -b feature-branch</li>
+<li>Commit changes: git commit -m "Add new feature"</li>
+<li>Push the branch: git push origin feature-branch</li>
+<li>Open a Pull Request.</li>
+
+<h3>📜 License</h3>
+This project is licensed under the MIT License.
+
+<h3>💡 Happy Querying! 🚀</h3>
+
+```pgsql
+
+### **New Additions:**
+✔ **Important SQL Questions** – Covers basic, intermediate, and advanced interview questions.  
+✔ **More Query Examples** – Added advanced queries.  
+
+Do you want me to add more specific SQL questions or explanations for each? 😃🔥
+
+```
