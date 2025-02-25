@@ -47,3 +47,9 @@ The database consists of the following tables:
 <li>What is a trigger in SQL? Provide an example.</li>
 <li>How do you optimize SQL queries for better performance?</li>
 
+<h3>⚡ Best Practices</h3>
+<li>Use Indexing: Speed up queries by indexing frequently searched columns.</li>
+<li>Normalize the Database: Reduce redundancy and improve efficiency.</li>
+<li>Use Transactions: Ensure data consistency with BEGIN, COMMIT, ROLLBACK.</li>
+<li>Secure Your Data: Use prepared statements to prevent SQL injection.</li>
+<li>Optimize Queries: Avoid SELECT *, use specific columns for better performance.</li>
