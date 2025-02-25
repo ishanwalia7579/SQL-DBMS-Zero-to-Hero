@@ -53,3 +53,20 @@ The database consists of the following tables:
 <li>Use Transactions: Ensure data consistency with BEGIN, COMMIT, ROLLBACK.</li>
 <li>Secure Your Data: Use prepared statements to prevent SQL injection.</li>
 <li>Optimize Queries: Avoid SELECT *, use specific columns for better performance.</li>
+
+
+
+<h3>📌 API Integration (Optional)</h3>
+You can integrate this database with a backend using Node.js, Python (Flask/Django), Java (Spring Boot), etc..
+
+<h5>Example:</h5> Fetch users in Python (MySQL)
+
+```c
+import mysql.connector
+
+conn = mysql.connector.connect(host="localhost", user="root", password="password", database="database_name")
+cursor = conn.cursor()
+cursor.execute("SELECT * FROM users")
+print(cursor.fetchall())
+
+```
