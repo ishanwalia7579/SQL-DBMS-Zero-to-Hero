@@ -20,3 +20,27 @@ The database consists of the following tables:
    ```bash
    git clone https://github.com/yourusername/sql-project.git
    cd sql-project
+
+   ```
+   ❓ Important SQL Questions
+Here are some commonly asked SQL interview questions:
+
+🏆 Basic SQL Questions
+What is SQL?
+What are the different types of SQL commands? (DDL, DML, DCL, TCL)
+What is the difference between DELETE, TRUNCATE, and DROP?
+What are primary keys and foreign keys?
+What is the difference between WHERE and HAVING?
+🚀 Intermediate SQL Questions
+What are JOIN types in SQL? (INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN)
+What is the difference between UNION and UNION ALL?
+How does indexing work, and why is it important?
+What is a stored procedure? Provide an example.
+What is normalization? Explain the different normal forms.
+🛠 Advanced SQL Questions
+What is a CROSS JOIN, and when should you use it?
+Explain CTE (Common Table Expressions) with an example.
+What is the difference between a VIEW and a TABLE?
+What is a trigger in SQL? Provide an example.
+How do you optimize SQL queries for better performance?
+
